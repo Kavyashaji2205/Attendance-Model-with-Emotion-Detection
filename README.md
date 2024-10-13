@@ -6,3 +6,8 @@ This project combines facial recognition and emotion detection to mark attendanc
 - **Real-time face recognition**
 - **Emotion detection**
 - **CSV export for attendance records**
+
+
+## Usage
+- Run `take_attendance.py` for real-time attendance marking.
+- Use `train_model.py` to train your models on new data.
