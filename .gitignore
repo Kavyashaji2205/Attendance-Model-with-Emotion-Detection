@@ -1,0 +1,33 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environment folder
+venv/
+env/
+.venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore datasets (to avoid uploading large files)
+dataset/
+*.csv
+
+# Ignore binary model files (optional if you don't want them on GitHub)
+*.h5
+*.pkl
+
+# Ignore system files (common in all OS)
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files or backup files
+*.bak
+*.swp
+*.tmp
